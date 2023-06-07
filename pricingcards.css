@@ -1,0 +1,79 @@
+/* css file*/
+h1{
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+/* displaying cards in row*/
+.container{
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+/*margin for 3 cars*/
+.pricing{
+    margin:45px 30px;
+}
+/*styling 3 cars*/
+.card{
+    background-color: white;
+    width:250px;
+    height:450px;
+    justify-content: center;
+}
+.card1{
+    background-color: black;
+    color:white;
+    width:250px;
+    height: 450px;
+}
+.card2{
+    background-color: white;
+    width:250px;
+    height: 450px;
+}
+/* styling the buttons*/
+.button{
+    width: 200px;
+    height: 30px;
+    border-radius: 20px;
+    background-color: black;
+    color:white;
+    margin:30px 30px;
+}
+.button1{
+    width: 200px;
+    height: 30px;
+    border-radius: 20px;
+    background-color: white;
+    color:black;
+    margin: 30px 30px;
+}
+/*removing discs for lists*/
+li{
+    list-style-type: none;
+}
+/*styling the headings*/
+h3{
+    padding-left: 37px;
+    padding-bottom: 0px;
+}
+h2{
+    padding-top: 0px;
+    padding-left: 37px;
+    font-size: 36px;
+}
+p{
+    padding-left: 37px;
+}
+.list{
+    padding-top: 40px;
+}
+.one{
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+.three{
+    padding-bottom: 15px;
+    padding-top: 40px;
+}
